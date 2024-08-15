@@ -9,5 +9,3 @@ venue: 'Ethology and Behavioral Ecology of Marine Mammals: The Evolving Human Fa
 paperurl: 'http://melissacollier.github.io/files/DisturbanceReview.pdf'
 citation: '<b>Collier, M.A,</b> Mann, J., Ali, S., Bansal, S. (2022). &quot;Impacts of Human Disturbance in Marine Mammals: Do Behavioral Changes Translate to Disease Consequences?.&quot; In: Notarbartolo di Sciara, G., Würsig, B. (eds) <i>Marine Mammals: The Evolving Human Factor. Ethology and Behavioral Ecology of Marine Mammals</i>. Springer, Cham. https://doi.org/10.1007/978-3-030-98100-6_9'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
