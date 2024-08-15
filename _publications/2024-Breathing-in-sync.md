@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 permalink: /publication/2024-Breathing-in-sync
 excerpt: ' This work characterizes the impact of bottlenose dolphin social dynamics on infectious disease risk and informs the structure of vulnerability for future epizootics. '
-date: 2024
+date: 2023-12-04
 venue: 'BiorXiv'
 slidesurl: ''
 paperurl: 'http://melissacollier.github.io/files/BreathingInSyncPP.pdf'
