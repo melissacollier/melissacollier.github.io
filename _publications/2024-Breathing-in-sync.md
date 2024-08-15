@@ -2,7 +2,7 @@
 title: "Breathing in sync: how a social behavior structures respiratory epidemic risk in bottlenose dolphins"
 collection: publications
 category: preprint
-permalink: /publication/2024-Breathing-in-sync/
+permalink: /publication/2024-Breathing-in-sync
 excerpt: ' This work characterizes the impact of bottlenose dolphin social dynamics on infectious disease risk and informs the structure of vulnerability for future epizootics. '
 date: 2024
 venue: 'BiorXiv'

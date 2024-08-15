@@ -2,7 +2,7 @@
 title: "Automated Skin Lesion Detection and Prevalence Estimation in Tamanend’s Bottlenose Dolphins"
 collection: publications
 category: preprint
-permalink: /publication/2024-Lesion-Machine-Learning/
+permalink: /publication/2024-Lesion-Machine-Learning
 excerpt: 'This work demonstrates that machine learning models for skin lesion detection on photographic data are reasonably successful, highly efficient, and provide initial estimates on the health status of understudied populations of bottlenose dolphins.'
 date: 2024
 venue: 'BiorXiv'

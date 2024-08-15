@@ -2,7 +2,7 @@
 title: "Habitat Characteristics and Plant Community Dynamics Impact the Diversity, Composition, and Co-occurrence of Sediment Fungal Communities"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-Marsh-Networks/
+permalink: /publication/2023-Marsh-Networks
 excerpt: 'We found that habitat transformation of coastal salt marshes driven by global change impacts the spatial dynamics of sediment and fungal properties.'
 date: 2023
 venue: 'Wetlands'

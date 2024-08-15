@@ -2,7 +2,7 @@
 title: "Cooperation and the social brain hypothesis in primate social networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-Cooperation-Primates/
+permalink: /publication/2023-Cooperation-Primates
 excerpt: 'We find a positive effect of brain size on cooperation in social networks even after controlling for the effect of other structural properties of networks that are known to promote cooperation.'
 date: 2023
 venue: 'Frontiers in Complex Systems'

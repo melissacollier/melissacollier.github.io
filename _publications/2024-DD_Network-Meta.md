@@ -2,7 +2,7 @@
 title: "Density-dependent network structuring within and across wild animal systems"
 collection: publications
 category: preprint
-permalink: /publication/2024-DD_Network-Meta/
+permalink: /publication/2024-DD_Network-Meta
 excerpt: 'We reveal fundamental trends underlying societal structuring across wildlife systems, with widespread behavioural, ecological, and evolutionary implications.'
 date: 2024
 venue: 'BiorXiv'

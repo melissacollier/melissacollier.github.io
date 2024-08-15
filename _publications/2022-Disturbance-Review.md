@@ -2,7 +2,7 @@
 title: "Impacts of Human Disturbance in Marine Mammals: Do Behavioral Changes Translate to Disease Consequences?"
 collection: publications
 category: books
-permalink: /publication/2022-Disturbance-Review/
+permalink: /publication/2022-Disturbance-Review
 excerpt: 'In this book chapter, we examine this link in marine mammal populations by (1) conducting a systematic literature review to determine how human disturbances change marine mammal behavior in ways that can impact disease spread, and (2) using a mathematical modeling framework to examine how these behavioral changes might influence potential epidemics. '
 date: 2022
 venue: 'Ethology and Behavioral Ecology of Marine Mammals: The Evolving Human Factor'

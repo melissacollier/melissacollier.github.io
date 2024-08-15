@@ -2,7 +2,7 @@
 title: "Some like it hot in the flow: Physiological, environmental, and hydrodynamic factors in <i> Xenobalanus globicipitis</i> attachment to cetaceans"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-Xeno-Paper/
+permalink: /publication/2023-Xeno-Paper
 excerpt: 'We show that the parasitic barnacle <i>X. globicipitis</i> prevalence likely provides important bioindicator, ecological, and physiological information about its cetacean hosts. As parasitic infestation has some cost, these results have implications for cetacean health in warming seas.'
 date: 2023
 venue: 'Marine Mammal Science'

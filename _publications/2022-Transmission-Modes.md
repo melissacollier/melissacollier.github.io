@@ -2,7 +2,7 @@
 title: "Pathogen transmission modes determine contact network structure, altering other pathogen characteristics"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-Transmission-Modes/
+permalink: /publication/2022-Transmission-Modes
 excerpt: 'This work demonstrates that contact network structure may drive the evolution of compensatory pathogen traits according to transmission strategy, providing essential context for understanding pathogen evolution and ecology.'
 date: 2022
 venue: 'Proceedings of the Royal Society B'
