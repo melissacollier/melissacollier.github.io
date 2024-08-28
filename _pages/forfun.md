@@ -11,7 +11,7 @@ Not just a scientist, also very much a person with a love for fashion, trying ne
 
 I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home state. Growing up in Florida is the reason I always prefer being hot over being cold, and definitely why I hate the snow.
 
-![Florida Photograph 1](/images/florida3.JPG)
+![Florida Photograph 1](/images/florida3.JPG =100x20)
 ![Florida Photograph 1](/images/florida1.jpeg)
 ![Florida Photograph 1](/images/florida4.JPG)
 ![Florida Photograph 1](/images/florida2.JPG)
