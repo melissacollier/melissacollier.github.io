@@ -7,10 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-figcaption {
-  text-align: center;
-}
-
 Not just a scientist, also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. Some fun facts about me:
 
 I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home state. Growing up in Florida is the reason I always prefer being hot over being cold, and definitely why I hate the snow.
@@ -88,6 +84,8 @@ Sign me up for any and all chefs menus, food tours, and cooking classes. Favorit
   <img src="/images/lobsterroll.jpeg" width="200" height="200" /> 
   <img src="/images/tacos.jpeg" width="200" height="200" />
   <img src="/images/natas.jpeg" width="200" height="200" />
+</p>
+<p align="middle">
   <figcaption>Left to right: Portland, Maine; Austin, Texasl; Lisbon, Portugal</figcaption>
 </p>
 
