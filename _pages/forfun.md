@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+figcaption {
+  text-align: center;
+}
+
 Not just a scientist, also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. Some fun facts about me:
 
 I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home state. Growing up in Florida is the reason I always prefer being hot over being cold, and definitely why I hate the snow.
