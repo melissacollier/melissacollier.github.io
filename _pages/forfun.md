@@ -15,10 +15,9 @@ I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home
   <img src="/images/florida3.JPG" width="200" height="200" /> 
   <img src="/images/florida1.jpeg" width="200" height="200" />
 </p>
-
 <p align="middle">
-  <img src="/images/florida4.JPG" width="200" height="200" /> 
-  <img src="/images/florida2.jpeg" width="200" height="200" />
+  <img src="/images/florida4.JPG" width="200" height="300" /> 
+  <img src="/images/florida2.JPG" width="200" height="200" />
 </p>
 
 I have a twin sister, and we are complete opposites. No she's not a scientist. Yes she's an extrovert. Yes she is an amazing singer. No she's not older-I am by two minutes. Yes I'm obsessed with her dog.
@@ -29,24 +28,30 @@ I have a twin sister, and we are complete opposites. No she's not a scientist. Y
 
 My favorite US destination is a complete tie between Georgia's golden coast (St. Simon's Island, Jekyll Island, Savannah, etc.) and Glacier National Park in Montana. But I still have so many more states to visit!
 
-Georgia's Golden Coast
+<p style="text-align: center;">Georgia's Golden Coast</p>
 
 <p align="middle">
   <img src="/images/goldencoast2.JPG" width="200" height="200" /> 
-  <img src="/images/goldencoast3.JPG" width="200" height="200" />
-</p>
-
-<p align="middle">
-  <img src="/images/goldencoast1.JPG" width="200" height="200" /> 
   <img src="/images/goldencoast4.JPG" width="200" height="200" />
 </p>
+<p align="middle">
+  <img src="/images/goldencoast1.JPG" width="400" height="400" /> 
+</p>
+<p align="middle">
+<img src="/images/goldencoast3.JPG" width="400" height="400" />
+</p>
 
-Glacier National Park
+<p style="text-align: center;">Glacier National Park</p>
 
 <p align="middle">
-  <img src="/images/glacier1.jpg" width="200" height="200" /> 
-  <img src="/images/glacier2.jpeg" width="200" height="200" />
-  <img src="/images/glacier3.jpg" width="200" height="200" />
+  <img src="/images/glacier2.jpeg" width="200" height="200" /> 
+  <img src="/images/glacier4.jpeg" width="200" height="200" />
+</p>
+<p align="middle">
+  <img src="/images/glacier1.jpg" width="400" height="400" /> 
+</p>
+<p align="middle">
+<img src="/images/glacier3.jpg" width="400" height="400" />
 </p>
 
 I'm slowly increasing my passport stamps (8 countries so far), but as of now my favorite international destination has been Co. Donegal in Ireland. Such an underrated and STUNNING part of the country, with the absolute best locals. Galway did have the best food though.
@@ -68,27 +73,24 @@ I've had the same 3 best friends since freshman year of high school (18 years, p
 
 2013
 <p align="middle">
-  <img src="/images/girls_old.JPG" width="200" height="200" /> 
-  <figcaption>Squad in 2013</figcaption>
+  <img src="/images/girls_old.JPG" width="200" height="400" /> 
   <img src="/images/girls_new.jpeg" width="200" height="200" />
-  <figcaption>Squad in 2024</figcaption>
+  <figcaption>Squad in 2013 (left) and 2024 (right) </figcaption>
 </p>
 
 Sign me up for any and all chefs menus, food tours, and cooking classes. Favorite Foods I've had so far this year (2024): lobster roll, chicken street tacos, and Pastel de Natas.
 
 <p align="middle">
   <img src="/images/lobsterroll.jpeg" width="200" height="200" /> 
-  <figcaption>Portland, Maine</figcaption>
   <img src="/images/tacos.jpeg" width="200" height="200" />
-  <figcaption>Austin, Texas</figcaption>
   <img src="/images/natas.jpeg" width="200" height="200" />
-  <figcaption>Lisbon, Portugal</figcaption>
+  <figcaption>Left to right: Portland, Maine; Austin, Texasl; Lisbon, Portugal</figcaption>
 </p>
 
 Matcha over coffee always. Except for espresso martinis.
 
 <p align="middle">
-  <img src="/images/ea2.jpeg" width="200" height="200" /> 
+  <img src="/images/tea2.jpeg" width="200" height="200" /> 
   <img src="/images/martini.jpeg" width="200" height="200" />
 </p>
 
