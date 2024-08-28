@@ -16,56 +16,80 @@ I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home
   <img src="/images/florida1.jpeg" width="200" height="200" />
 </p>
 
-![Florida Photograph 1](/images/florida4.JPG)
-![Florida Photograph 1](/images/florida2.JPG)
+<p align="middle">
+  <img src="/images/florida4.JPG" width="200" height="200" /> 
+  <img src="/images/florida2.jpeg" width="200" height="200" />
+</p>
 
 I have a twin sister, and we are complete opposites. No she's not a scientist. Yes she's an extrovert. Yes she is an amazing singer. No she's not older-I am by two minutes. Yes I'm obsessed with her dog.
 
-![Sis and Dog Photograph 1](/images/lizandfreed.jpeg)
+<p align="middle">
+  <img src="/images/lizandfreed.jpeg" width="400" height="400" /> 
+</p>
 
 My favorite US destination is a complete tie between Georgia's golden coast (St. Simon's Island, Jekyll Island, Savannah, etc.) and Glacier National Park in Montana. But I still have so many more states to visit!
 
 Georgia's Golden Coast
-![Golden Coast 1](/images/goldencoast2.JPG)
-![Golden Coast 2](/images/goldencoast3.JPG)
-![Golden Coast 3](/images/goldencoast1.JPG)
-![Golden Coast 4](/images/goldencoast4.JPG)
+
+<p align="middle">
+  <img src="/images/goldencoast2.JPG" width="200" height="200" /> 
+  <img src="/images/goldencoast3.JPG" width="200" height="200" />
+</p>
+
+<p align="middle">
+  <img src="/images/goldencoast1.JPG" width="200" height="200" /> 
+  <img src="/images/goldencoast4.JPG" width="200" height="200" />
+</p>
 
 Glacier National Park
-![Glacier 1](/images/glacier1.jpg)
-![Glacier 1](/images/glacier2.jpeg)
-![Glacier 1](/images/glacier3.jpg)
+
+<p align="middle">
+  <img src="/images/glacier1.jpg" width="200" height="200" /> 
+  <img src="/images/glacier2.jpeg" width="200" height="200" />
+  <img src="/images/glacier3.jpg" width="200" height="200" />
+</p>
 
 I'm slowly increasing my passport stamps (8 countries so far), but as of now my favorite international destination has been Co. Donegal in Ireland. Such an underrated and STUNNING part of the country, with the absolute best locals. Galway did have the best food though.
 
-![Ireland 1](/images/Ireland1.jpeg)
-![Ireland 2](/images/Ireland2.jpeg)
-![Ireland 3](/images/Ireland3.jpeg)
+<p align="middle">
+  <img src="/images/Ireland1.jpeg" width="200" height="200" /> 
+  <img src="/images/Ireland2.jpeg" width="200" height="200" />
+  <img src="/images/Ireland3.jpeg" width="200" height="200" />
+</p>
 
 I currently own ~25 plants after a freeze came through when I was out of town and killed about 10. I will avidly try to convince anyone who will listen that they can be a great plant parent too, and to not let the one plant you killed in college scare you away.
 
-![Plants 1](/images/plants1.jpeg)
-![Plants 2](/images/plants2.jpeg)
+<p align="middle">
+  <img src="/images/plants1.jpeg" width="200" height="200" /> 
+  <img src="/images/plants2.jpeg" width="200" height="200" />
+</p>
 
 I've had the same 3 best friends since freshman year of high school (18 years, plus my twin sister). None of them are scientists, and they help remind me that there is so much more to life than publishing, grants, and frustrating data.
 
 2013
-![Girls 1](/images/girls_old.JPG)
+<p align="middle">
+  <img src="/images/girls_old.JPG" width="200" height="200" /> 
+  <figcaption>Squad in 2013</figcaption>
+  <img src="/images/girls_new.jpeg" width="200" height="200" />
+  <figcaption>Squad in 2024</figcaption>
+</p>
 
-2024
-![Girls 2](/images/girls_new.jpeg)
+Sign me up for any and all chefs menus, food tours, and cooking classes. Favorite Foods I've had so far this year (2024): lobster roll, chicken street tacos, and Pastel de Natas.
 
-Sign me up for any and all chefs menus, food tours, and cooking classes. Favorite Foods I've had so far this year (2024): Maine lobster roll, chicken street tacos in Austin, TX, and Pastel de Natas in Lisbon, Portugal.
-
-![Lobster 1](/images/lobsterroll.jpeg)
-![Tacos 1](/images/tacos.jpeg)
-![Natas 1](/images/natas.jpeg)
-
+<p align="middle">
+  <img src="/images/lobsterroll.jpeg" width="200" height="200" /> 
+  <figcaption>Portland, Maine</figcaption>
+  <img src="/images/tacos.jpeg" width="200" height="200" />
+  <figcaption>Austin, Texas</figcaption>
+  <img src="/images/natas.jpeg" width="200" height="200" />
+  <figcaption>Lisbon, Portugal</figcaption>
+</p>
 
 Matcha over coffee always. Except for espresso martinis.
 
-![Tea 1](/images/tea2.jpeg)
-![Martini 1](/images/martini.jpeg)
-
+<p align="middle">
+  <img src="/images/ea2.jpeg" width="200" height="200" /> 
+  <img src="/images/martini.jpeg" width="200" height="200" />
+</p>
 
 
