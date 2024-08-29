@@ -7,20 +7,23 @@ redirect_from:
   - /markdown.html
 ---
 
-Not just a scientist, also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. Some fun facts about me:
+I'm not just a scientist, I'm also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. So here are 8 fun facts about me (not science related!).
 
-I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home state. Growing up in Florida is the reason I always prefer being hot over being cold, and definitely why I hate the snow.
+
+<b>1. I'm a native Floridian,</b> and I love and DEEPLY miss the natural beauty of my home state. It's also why I prefer being hot over cold, and why I hate the snow.
 
 <p align="middle">
   <img src="/images/florida3.JPG" width="200" height="200" /> 
   <img src="/images/florida1.jpeg" width="200" height="200" />
 </p>
 <p align="middle">
-  <img src="/images/florida4.JPG" width="200" height="300" /> 
+  <img src="/images/florida4.jpeg" width="200" height="200" /> 
   <img src="/images/florida2.JPG" width="200" height="200" />
 </p>
+<center> Clockwise: Exploring Broad Key. Walking Honeymoon Island. SCUBA for coral restoration in Miami. Boat rides in Biscayne Bay.</center>
 
-I have a twin sister, and we are complete opposites. No she's not a scientist. Yes she's an extrovert. Yes she is an amazing singer. No she's not older-I am by two minutes. Yes I'm obsessed with her dog.
+
+<b>2. I have a twin sister,</b> and we are complete opposites. No she's not a scientist. Yes she's an extrovert. Yes she is an amazing singer. No she's not older-I am by two minutes. Yes I'm obsessed with her dog.
 
 <p align="middle">
   <img src="/images/lizandfreed.jpeg" width="400" height="400" /> 
@@ -86,7 +89,7 @@ Sign me up for any and all chefs menus, food tours, and cooking classes. Favorit
   <img src="/images/natas.jpeg" width="200" height="200" />
 </p>
 <p align="middle">
-  <figcaption>Left to right: Portland, Maine; Austin, Texasl; Lisbon, Portugal</figcaption>
+  <figcaption>Left to right: Portland, Maine; Austin, Texas; Lisbon, Portugal</figcaption>
 </p>
 
 Matcha over coffee always. Except for espresso martinis.
