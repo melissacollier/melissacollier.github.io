@@ -6,9 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
 
 I'm not just a scientist, I'm also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. So here are 8 fun facts about me (not science related!).
 
@@ -23,7 +20,6 @@ I'm not just a scientist, I'm also very much a person with a love for fashion, t
   <img src="/images/florida4.jpeg" width="200" height="200" /> 
   <img src="/images/florida2.JPG" width="200" height="200" />
 </p>
-<center> Clockwise: Exploring Broad Key. Walking Honeymoon Island. SCUBA for coral restoration in Miami. Boat rides in Biscayne Bay.</center>
 
 
 <b>2. I have a twin sister,</b> and we are complete opposites. No she's not a scientist. Yes she's an extrovert. Yes she is an amazing singer. No she's not older-I am by two minutes. Yes I'm obsessed with her dog.
