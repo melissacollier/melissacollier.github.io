@@ -3,8 +3,8 @@ permalink: /forfun/
 title: "Fun Things About Me"
 author_profile: true
 redirect_from: 
-  - /forfun/
-  - /forfun.html
+  - /md/
+  - /markdown.html
 ---
 
 I'm not just a scientist, I'm also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. So here are 8 fun facts about me (not science related!).
