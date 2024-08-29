@@ -29,7 +29,7 @@ I'm not just a scientist, I'm also very much a person with a love for fashion, t
   <img src="/images/lizandfreed.jpeg" width="400" height="400" /> 
 </p>
 
-3. My favorite US destination is a complete tie between Georgia's golden coast (St. Simon's Island, Jekyll Island, Savannah, etc.) and Glacier National Park in Montana. But I still have so many more states to visit!
+3. <b>My favorite US destination</b> is a complete tie between Georgia's golden coast (St. Simon's Island, Jekyll Island, Savannah, etc.) and Glacier National Park in Montana. But I still have so many more states to visit!
 
 <p style="text-align: center;">Georgia's Golden Coast</p>
 
