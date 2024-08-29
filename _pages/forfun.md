@@ -6,6 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 
 I'm not just a scientist, I'm also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. So here are 8 fun facts about me (not science related!).
 
