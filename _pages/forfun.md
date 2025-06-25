@@ -9,7 +9,7 @@ redirect_from:
 
 I'm not just a scientist, I'm also very much a person with a love for fashion, trying new foods, seeing new places, being outside, and reading garbage romance/fantasy novels. So here are 8 fun facts about me (not science related!).
 
-I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home state. It's also why I prefer being hot over cold, and why I hate the snow.
+As a native Floridian, I love and DEEPLY miss the natural beauty of my home state. It's also why I prefer being hot over cold, and why I hate the snow.
 
 <p align="middle">
   <img src="/images/florida3.JPG" width="200" height="200" /> 
@@ -21,13 +21,13 @@ I'm a native Floridian, and I love and DEEPLY miss the natural beauty of my home
 </p>
 
 
-I have a twin sister, and we are complete opposites. No she's not a scientist. Yes she's an extrovert. Yes she is an amazing singer. No she's not older-I am by two minutes. Yes I'm obsessed with her dog.
+I have a twin sister, and we are complete opposites. She's not a scientist, she's an extrovert, a great singer and I am older by two minutes. I'm also obsessed with her dog.
 
 <p align="middle">
   <img src="/images/lizandfreed.jpeg" width="400" height="400" /> 
 </p>
 
-My favorite US destination is a complete tie between Georgia's golden coast (St. Simon's Island, Jekyll Island, Savannah, etc.) and Glacier National Park in Montana. But I still have so many more states to visit!
+I've visted 27 US states and my favorite place so far is a tie between Georgia's golden coast and Glacier National Park in Montana. But I still have more to see!
 
 <p style="text-align: center;">Georgia's Golden Coast</p>
 
@@ -55,7 +55,7 @@ My favorite US destination is a complete tie between Georgia's golden coast (St.
 <img src="/images/glacier3.jpg" width="400" height="400" />
 </p>
 
-I'm slowly increasing my passport stamps (8 countries so far), but as of now my favorite international destination has been Co. Donegal in Ireland. Such an underrated and STUNNING part of the country, with the absolute best locals. Galway did have the best food though.
+I'm slowly increasing my passport stamps (10 countries so far). As of now my favorite non-US destination is Co. Donegal in Ireland. 
 
 <p align="middle">
   <img src="/images/Ireland1.jpeg" width="200" height="200" /> 
@@ -63,14 +63,14 @@ I'm slowly increasing my passport stamps (8 countries so far), but as of now my 
   <img src="/images/Ireland3.jpeg" width="200" height="200" />
 </p>
 
-I currently own ~25 plants after a freeze came through when I was out of town and killed about 10. I will avidly try to convince anyone who will listen that they can be a great plant parent too, and to not let the one plant you killed in college scare you away.
+I currently own ~25 plants after a freeze when I was out of town killed about 10. I will avidly try to convince anyone who will listen that they can be a great plant parent too.
 
 <p align="middle">
   <img src="/images/plants1.jpeg" width="200" height="200" /> 
   <img src="/images/plants2.jpeg" width="200" height="200" />
 </p>
 
-I've had the same 3 best friends since freshman year of high school (18 years, plus my twin sister). None of them are scientists, and they help remind me that there is so much more to life than publishing, grants, and frustrating data.
+I've had the same 3 best friends (plus my tiwn) since my freshman year of high school. None of them are scientists, and they help remind me that there is so much more to life than the frustrations of data, publishing, and grant writing.
 
 <p align="middle">
   <img src="/images/girls_old.JPG" width="200" height="400" /> 
@@ -78,7 +78,7 @@ I've had the same 3 best friends since freshman year of high school (18 years, p
   <figcaption>Squad in 2013 (left) and 2024 (right) </figcaption>
 </p>
 
-Sign me up for any and all chefs menus, food tours, and cooking classes. Favorite Foods I've had so far this year (2024): lobster roll, chicken street tacos, and Pastel de Natas.
+I will always sign up for any and all chefs menus, food tours, and cooking classes wherever offered.
 
 <p align="middle">
   <img src="/images/lobsterroll.jpeg" width="200" height="200" /> 
